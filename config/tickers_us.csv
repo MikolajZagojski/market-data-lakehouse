@@ -1,0 +1,31 @@
+symbol,company_name,sector,asset_type
+SPY,SPDR S&P 500 ETF,Benchmark,etf
+AAPL,Apple,Information Technology,stock
+MSFT,Microsoft,Information Technology,stock
+NVDA,NVIDIA,Information Technology,stock
+GOOGL,Alphabet,Communication Services,stock
+META,Meta Platforms,Communication Services,stock
+DIS,Walt Disney,Communication Services,stock
+AMZN,Amazon,Consumer Discretionary,stock
+TSLA,Tesla,Consumer Discretionary,stock
+HD,Home Depot,Consumer Discretionary,stock
+PG,Procter & Gamble,Consumer Staples,stock
+KO,Coca-Cola,Consumer Staples,stock
+WMT,Walmart,Consumer Staples,stock
+JNJ,Johnson & Johnson,Health Care,stock
+UNH,UnitedHealth Group,Health Care,stock
+LLY,Eli Lilly,Health Care,stock
+JPM,JPMorgan Chase,Financials,stock
+BAC,Bank of America,Financials,stock
+V,Visa,Financials,stock
+XOM,Exxon Mobil,Energy,stock
+CVX,Chevron,Energy,stock
+CAT,Caterpillar,Industrials,stock
+BA,Boeing,Industrials,stock
+UNP,Union Pacific,Industrials,stock
+NEE,NextEra Energy,Utilities,stock
+DUK,Duke Energy,Utilities,stock
+LIN,Linde,Materials,stock
+FCX,Freeport-McMoRan,Materials,stock
+PLD,Prologis,Real Estate,stock
+AMT,American Tower,Real Estate,stock
